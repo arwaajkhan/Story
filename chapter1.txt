@@ -1,0 +1,1 @@
+This is the first editor for me that I've opened through the gitbash terminal.
